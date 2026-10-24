@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Maria 👋
 
-<!--
-**crazy-elf/crazy-elf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Integration Engineer working with APIs, partner integrations, technical troubleshooting, and automation.
 
-Here are some ideas to get you started:
+### Tech stack
+- **APIs:** REST, JSON, XML
+- **Data:** SQL
+- **Programming:** Python, C/C++, C#, PHP *(foundational experience)*
+- **Tools:** Git, Linux, Postman, Kibana, Grafana, Jira, Confluence
+- **Currently learning:** JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+- API integrations and technical troubleshooting
+- Integration testing and data validation
+- Technical documentation
+- Automation and internal tooling
+- Cross-functional work with engineering and business teams
+
+### Currently
+📍 Tbilisi, Georgia  
+💻 Exploring Integration / Implementation / Solutions Engineering opportunities  
+📚 Learning JavaScript and expanding my software development skills
